@@ -1,0 +1,12 @@
+{
+  "name": "watch-figma",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Frad LEE",
+  "license": "MIT",
+  "private": false,
+  "bin": "cli.js",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
