@@ -1,8 +1,18 @@
 {
   "name": "watch-figma",
-  "version": "0.0.1",
-  "main": "index.js",
+  "version": "0.0.2",
+  "description": "A CLI to run last plugin in Figma.",
+  "keywords": [
+    "figma",
+    "applescript",
+    "cli"
+  ],
+  "main": "cli.js",
   "author": "Frad LEE",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FradSer/watch-figma.git"
+  },
   "license": "MIT",
   "private": false,
   "bin": "cli.js",
