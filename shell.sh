@@ -5,5 +5,3 @@ osascript <<EOD
       keystroke "p" using {command down, option down}
   end tell
 EOD
-
-echo "Done."

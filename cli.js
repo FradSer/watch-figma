@@ -10,4 +10,6 @@ function WatchFigma() {
 
 module.exports = WatchFigma;
 
+console.log("the plugin has reloaded.")
+
 WatchFigma()
